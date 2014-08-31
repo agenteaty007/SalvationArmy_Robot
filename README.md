@@ -7,6 +7,8 @@ Files:
 
 - EAGLE schematics and board files
 
+- Board DXF
+
 - Schematic PDF
 
 - Gerber board files
